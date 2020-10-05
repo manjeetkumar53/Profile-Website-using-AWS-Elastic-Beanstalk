@@ -1,4 +1,4 @@
-# Profile Page Website using AWS Elastic Beanstalk
+# Profile page Website to introduce yourself, using AWS Elastic Beanstalk.
 Learn how to create Profile page Website introducting yourself, using AWS Elastic Beanstalk.
 
 You can access demo application using AWS link:
